@@ -36,6 +36,18 @@
     - Japonés B1 por la universidad de Sevilla.
     - Inglés A2 por la universidad de Sevilla.
 
-## v. Enlaces a proyectos o perfiles online (GitHub, LinkedIn, etc.) ##
+## v. Enlaces a proyectos o perfiles online (GitHub, LinkedIn, etc.)  ##
 - **LinkedIn** - <https://www.linkedin.com/in/natalia-narv%C3%A1ez-anguita-6b3338218/>
 - **GitHub** - <https://github.com/NataliaSevilla>
+
+### Tabla con definiciones ###
+
+**Conceptos básico de HTML** 
+
+| Concepto | Definición | Fuente |
+| <head> | Provee información general (metadatos) acerca del documento, incluyendo su título y enlaces a scripts y hojas de estilos | [MDN] (https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/head)|
+| <body> | Representa el contenido de un documento HTML. Solo puede haber un elemento <body> en un documento. |  [MDN] (https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/body)|
+
+### Agregar una imagen ###
+
+![Logo de Git](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3Dgit&psig=AOvVaw1l2J5CPlH3p-wCDpQ5IrQ6&ust=1757935572037000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDz-cCS2I8DFQAAAAAdAAAAABAE)
