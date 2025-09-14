@@ -8,10 +8,10 @@
 
 ## ii. Formación
 - **FP superior de DAWa** 
-    – IES Cristobal de Monroy (2018 - 2024)
+    - IES Cristobal de Monroy (2018 - 2024)
     - IES AguasDulce (2024 - 2025)  
 - **Dachiller de artes** 
-    – IPEP Sevilla  (Finalización 2013)  
+    - IPEP Sevilla  (Finalización 2013)  
 ## iii. Experiencia laboral. 
 - **Practicas DAW - Desarrollo web fullstack junior**
     - Empresa: Pyramica Net Services
