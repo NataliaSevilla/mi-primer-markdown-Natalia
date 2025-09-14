@@ -51,4 +51,4 @@
 
 ### Agregar una imagen ###
 
-![Logo de Git](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3Dgit&psig=AOvVaw1l2J5CPlH3p-wCDpQ5IrQ6&ust=1757935572037000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDz-cCS2I8DFQAAAAAdAAAAABAE)
+![Logo de Git](https://images.icon-icons.com/2108/PNG/512/git_icon_130933.png)
