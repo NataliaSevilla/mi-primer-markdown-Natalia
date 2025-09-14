@@ -46,8 +46,8 @@
 
 | Concepto | Definición | Fuente |
 | --------- | --------- | --------- |
-| <head> | Provee información general (metadatos) acerca del documento, incluyendo su título y enlaces a scripts y hojas de estilos | [MDN] (https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/head)|
-| <body> | Representa el contenido de un documento HTML. Solo puede haber un elemento <body> en un documento. |  [MDN] (https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/body)|
+| head | Provee información general (metadatos) acerca del documento, incluyendo su título y enlaces a scripts y hojas de estilos | [MDN] (https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/head)|
+| body | Representa el contenido de un documento HTML. Solo puede haber un elemento <body> en un documento. |  [MDN] (https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/body)|
 
 ### Agregar una imagen ###
 
